@@ -1,6 +1,6 @@
 ---
 name: Epic template
-about: Defines a major app feature
+about: An epic represents functionality that will span multiple sprints
 title: ''
 labels: epic
 assignees: ''

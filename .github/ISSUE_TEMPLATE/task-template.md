@@ -1,7 +1,6 @@
 ---
 name: Task template
-about: Describes a task required to complete an Epic or User Story that can be completed
-  in a single sprint
+about: Tasks are small units of work that can be completed in a single sprint
 title: ''
 labels: task
 assignees: ''

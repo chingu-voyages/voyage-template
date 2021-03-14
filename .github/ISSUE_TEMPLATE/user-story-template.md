@@ -1,6 +1,7 @@
 ---
 name: User Story template
-about: Describe a component that makes up an app feature (Epic)
+about: User Stories are features supporting user requirements that can be completed
+  in a single sprint
 title: ''
 labels: user_story
 assignees: ''
