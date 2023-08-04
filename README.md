@@ -12,3 +12,17 @@ And before we go there's "one more thing"! Once you decide what to include
 in your `readme` feel free to replace the text we've provided here.
 
 > Own it & Make it your Own!
+
+## Team Documents
+
+You may find these helpful as you work together to organize your project.
+
+- [Team Project Ideas](./docs/team_project_ideas.md)
+- [Team Decision Log](./docs/team_decision_log.md)
+
+Meeting Agenda templates (located in the `/docs` directory in this repo):
+
+- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
+- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
+- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
+- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
